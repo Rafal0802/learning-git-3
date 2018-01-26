@@ -1,3 +1,5 @@
+$white: #FFF;
+
 body {
 	background-color: #000;
 }
@@ -6,5 +8,19 @@ body {
 	height: 70vh;
 	background-size: cover;
 	background-position: center;
-	color: #FFF;
+	color: $white;
+}
+.text {
+	color: $white;
+	max-width: 300px;
+	font-size: 20px;
+	p {
+		margin-top: 30px;
+	}
+}
+footer {
+	color: $white;
+	margin-top: 35px;
+	border-top: 1px solid $white;
+	padding: 10px;
 }
