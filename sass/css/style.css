@@ -1,3 +1,11 @@
+body {
+  background-color: #000; }
 
+.jumbotron {
+  background-image: url(http://cms.depechemode.com/api/uploads/2017/03/dsc00768.jpg);
+  height: 70vh;
+  background-size: cover;
+  background-position: center;
+  color: #FFF; }
 
 /*# sourceMappingURL=style.css.map */
