@@ -1,9 +1,10 @@
 body {
-  background-color: #000; }
+  background-color: #000;
+  padding-top: 50vh; }
 
 .jumbotron {
   background-image: url(http://cms.depechemode.com/api/uploads/2017/03/dsc00768.jpg);
-  height: 70vh;
+  height: 50vh;
   background-size: cover;
   background-position: center;
   color: #FFF; }
