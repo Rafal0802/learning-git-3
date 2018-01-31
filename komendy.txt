@@ -1,5 +1,5 @@
 autoprefixer-cli
-Usage: autoprefixer-cli -o style.prefixed.css style.css
+Usage: node_modules/.bin/autoprefixer-cli -o style.prefixed.css style.css
 
 nu-html-checker
-Usage: cli <*.html>
+Usage: node_modules/.bin/nu-html-checker *.html
