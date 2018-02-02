@@ -9,7 +9,7 @@ body {
 	height: 50vh;
 	background-size: cover;
 	background-position: center;
-	color: blue;
+	color: $white;
 }
 .text {
 	color: $white;
@@ -24,4 +24,10 @@ footer {
 	margin-top: 35px;
 	border-top: 1px solid $white;
 	padding: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	p {
+		margin: 0 auto;
+	}
+	
 }
